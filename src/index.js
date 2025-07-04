@@ -1,3 +1,3 @@
-import('./render').then(exports => {
-    exports.render()
-})
+console.log('index')
+
+import('./render');
